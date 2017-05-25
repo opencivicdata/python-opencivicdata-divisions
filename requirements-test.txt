@@ -1,4 +1,0 @@
-pytest>=2.9
-pytest-cov
-coveralls
-backports.csv ; python_version<'3.3'
